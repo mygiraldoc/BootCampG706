@@ -14,10 +14,10 @@
 
 
 python --version
-crear un entorno virtual en python
+python -m venv ven312 crear un entorno virtual en python
 dir alistar o ver los directorios
 actrivar nuestro entorno `env312\scripts\activate` Para mi es ven312
-`deactivate` desativar el entorno python
+`deactivateenv312\scripts\activate` desativar el entorno python
 pip list lista de librerias instaladas
 `##` Librerias para python - subtitulos
 `pip install pandas numpy matplotlib`
