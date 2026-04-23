@@ -25,3 +25,4 @@ pandas - para manejo de datos `pip install pandas`
 numpy- para calculos matematicos `pip install numpy`
 matplolib - para graficos `pip install matplotlib`
 `python.exe -m pip install --upgrade` pip  Actualizador de pip
+`pip list` para ver la lista de programas instalados en el entorno virtual
