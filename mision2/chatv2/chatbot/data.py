@@ -96,5 +96,5 @@ training_data = [
     ("hola de nuevo", "¡Bienvenido otra vez!"),
     ("sigamos", "Claro, continuemos."),
     ("terminamos", "De acuerdo, aquí estaré."),
-    ("bye", "¡Adiós!"),
+    ("bye", "¡Adiós!")
   ]
