@@ -37,3 +37,4 @@ matplolib - para graficos `pip install matplotlib`
 
 `os` es una librería que trabaja en el sistema operativo de Python 
 `pickle` guarda y carga objetos de Python en el archivo
+
